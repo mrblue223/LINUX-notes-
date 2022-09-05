@@ -45,8 +45,8 @@ OUTPUT: bandit0
 (This command is called "whoami" find out what user is logged in)
 
 [FLAGS AND SWITCHES]
---help = help
-man = manual pages
+--help <command> = help
+man <command> = manual pages
 
 [INTERACTING WITH THE FILE SYSTEM]
 ls = listing files, folders, directories
